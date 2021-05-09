@@ -2,8 +2,6 @@
 
 ---
 
-<br/>
-
 #### I have a deep love for:
 
 - Otters 🦦
