@@ -15,7 +15,7 @@
 
 #### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620591616~hmac=ad464b889439ce5f48daeca843d24563" />][linkedin]
+[<img align="left" alt="Friederike Möser LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620591616~hmac=ad464b889439ce5f48daeca843d24563" />][linkedin]
 
 <br />
 <br />
@@ -41,6 +41,6 @@
 
 ### GitHub Stats
 
-  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FriederikeM&show_icons=true&theme=dracula" />
+  <img alt="FriederikeM GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FriederikeM&show_icons=true&theme=dracula" />
 
 [linkedin]: https://www.linkedin.com/in/friederike-m%C3%B6ser-9ba178180/
