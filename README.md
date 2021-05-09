@@ -15,7 +15,7 @@
 
 #### Connect with me:
 
-[<img align="left" alt="Friederike Möser LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620591616~hmac=ad464b889439ce5f48daeca843d24563" />][linkedin]
+[<img align="left" alt="Friederike Möser LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 <br />
