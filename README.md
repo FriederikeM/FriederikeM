@@ -41,6 +41,6 @@
 
 ### GitHub Stats
 
-  <img alt="FriederikeM GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FriederikeM&show_icons=true&theme=dracula" />
+[![Friederike's stats](https://github-readme-stats.vercel.app/api?username=FriederikeM)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/friederike-m%C3%B6ser-9ba178180/
