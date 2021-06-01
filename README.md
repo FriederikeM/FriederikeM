@@ -13,7 +13,7 @@
 🌃  The sky
 </div>
 <div>
-🎸 Life music
+🎸 Live music
 </div>
 <div>
 👩‍💻  And of course, coding
